@@ -1,1 +1,2 @@
-this file is created in code locally on my mac
+# This file is created in code locally on my mac. The history of this file can't merge into the current repo because it was already a repo itself. I needed to add a flag to my git pull and allow for merging of history. Since git pull is a combination of "git fetch" and "git merge FETCH_HEAD" the "merge" command will need to have the --allow-unrelated-histories parameter set to allow the unrelated histories to merge.
+# If the local folder had begun as a clone of data in the remote both source and destination would share a common ancestor
