@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile profileName="laerumpki - Web Deploy" publishMethod="MSDeploy" publishUrl="laerumpki.scm.azurewebsites.net:443" msdeploySite="laerumpki" userName="$laerumpki" userPWD="1pizMBclzod7rmeCj9ez1ZGEZg0kGTltatzYTgMu5u42ZpkTbkfncRHlqjsL" destinationAppUrl="http://laerumpki.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+    <databases />
+  </publishProfile>
+  <publishProfile profileName="laerumpki - FTP" publishMethod="FTP" publishUrl="ftp://waws-prod-db3-023.ftp.azurewebsites.windows.net/site/wwwroot" ftpPassiveMode="True" userName="laerumpki\$laerumpki" userPWD="1pizMBclzod7rmeCj9ez1ZGEZg0kGTltatzYTgMu5u42ZpkTbkfncRHlqjsL" destinationAppUrl="http://laerumpki.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+    <databases />
+  </publishProfile>
+  <publishProfile profileName="laerumpki - Zip Deploy" publishMethod="ZipDeploy" publishUrl="laerumpki.scm.azurewebsites.net:443" userName="$laerumpki" userPWD="1pizMBclzod7rmeCj9ez1ZGEZg0kGTltatzYTgMu5u42ZpkTbkfncRHlqjsL" destinationAppUrl="http://laerumpki.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+    <databases />
+  </publishProfile>
+</publishData>
